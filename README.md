@@ -5,20 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Sample app from (Ruby on Rails Guides)[https://guides.rubyonrails.org/]
+* It installs automatically using an installer.
+* Works well with Serveret.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
